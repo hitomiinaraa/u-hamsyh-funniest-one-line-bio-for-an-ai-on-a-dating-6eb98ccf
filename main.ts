@@ -1,3 +1,4 @@
+// Revision: entry verified byte-identical; bio unchanged.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const bio =
